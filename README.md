@@ -28,7 +28,4 @@ O objetivo foi aplicar **Transfer Learning** em um problema de classificação b
 3. Execute célula por célula.
 4. O modelo final será salvo como `cats_vs_dogs_transfer_learning.h5`.
 
-## 📷 Exemplos
-Inclua aqui prints dos gráficos de acurácia/validação.
-
 ---
